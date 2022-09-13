@@ -4,7 +4,7 @@
 
 - 🙋‍♂️ Em busca do meu primeiro emprego como desenvolvedor front-end júnior.
 - 🌱 Atualmente, estou estudando desenvolvimento web, com ênfase em HTML, CSS e JavaScript.
-- 💡 Curiosidade: Sou formado em direito, com pós-graduação e alguns anos de atuação. Porém, devido à minha paixão por tecnologias, decidi migrar de área.
+- 💡 Curiosidade: Sou formado em direito, com alguns anos de atuação. Porém, devido à minha paixão por tecnologias, decidi migrar de área.
 
 <hr>
 
