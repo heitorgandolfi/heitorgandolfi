@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/heitorgandolfi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 - 🙋‍♂️ Em busca do meu primeiro emprego como desenvolvedor front-end.
-- 🌱 Atualmente, estou estudando desenvolvimento web, com ênfase em JavaScript e React.js.
+- 🌱 Atualmente, estou estudando desenvolvimento web, com ênfase em JavaScript e React.js, além de Bootstrap, CSS e HTML.
 - 💡 Curiosidade: Sou formado em direito, com alguns anos de atuação. Porém, devido à minha paixão por tecnologias, optei por migrar de área.
 
 <hr>
