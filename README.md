@@ -2,8 +2,8 @@
 
 <a href="https://www.linkedin.com/in/heitorgandolfi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-- 🙋‍♂️ Desenvolvedor front-end.
-- 🌱 Atualmente, estou estudando desenvolvimento web no geral, especialmente JavaScript e React.js, além de Bootstrap, CSS e HTML.
+- 🙋‍♂️ Desenvolvedor Front-End.
+- 🌱 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Ribeirão Preto(FATEC). Além disso, também dedico meus estudos ao desenvolvimento web no geral.
 - 💡 Curiosidade: Sou formado em direito, com alguns anos de atuação. Porém, devido à minha paixão por tecnologias, optei por migrar de área.
 
 <hr>
