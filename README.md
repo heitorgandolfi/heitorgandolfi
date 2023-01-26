@@ -4,7 +4,7 @@
 
 - 🙋‍♂️ Desenvolvedor Front-End.
 - 🌱 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Ribeirão Preto (FATEC). Além disso, também dedico meus estudos ao desenvolvimento web no geral.
-- 💡 Curiosidade: Sou formado em direito, com alguns anos de atuação. Porém, devido à minha paixão por tecnologias, optei por migrar de área.
+- 💡 Curiosidade: Sou formado em direito, com alguns anos de atuação. Porém, devido ao meu interesse por tecnologias, optei por migrar de área.
 
 <hr>
 
