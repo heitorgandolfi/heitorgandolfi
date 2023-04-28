@@ -1,4 +1,4 @@
-### Hi there! I'm Heitor Gandolfi
+### Hi there! I'm Heitor Gandolfi =)
 
 <a href="https://www.linkedin.com/in/heitorgandolfi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
