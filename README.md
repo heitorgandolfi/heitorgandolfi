@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/heitorgandolfi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-- 🌱 Front-End Developer at <a href="https://www.linkedin.com/company/levva/mycompany/">levva</a>.
+- 🌱 Front-End Developer.
 - 💡 Studying System Analysis and Development at FATEC.
 
 <hr>
