@@ -1,18 +1,25 @@
-### Hi there! I'm Heitor Gandolfi
+### Hi, I'm Heitor Gandolfi 👋
 
-<a href="https://www.linkedin.com/in/heitorgandolfi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231d1b20?style=for-the-badge&logo=linkedin&logoColor=%23D1BCE3" target="_blank"></a>
+Software Engineer focused on frontend architecture, developer experience, and product engineering.
+Currently building at [Cálculo Jurídico](https://calculojuridico.com.br), working on a multi-product
+platform serving 100k+ users, owning frontend, a headless parsing service on GCP, and an MCP bridge
+for AI agents.
 
-- 💡 Front-End Developer.
-- ⚙️ Currently working with: .ts, .vue, .elm.
-- 🌱 Studying Information Technology at Univesp.
+Most of my daily work lives on my professional account → [heitorgcardillo](https://github.com/heitorgcardillo)
 
-<hr>
+---
 
-![JavaScript](https://img.shields.io/badge/javascript-%231d1b20.svg?style=for-the-badge&logo=javascript&logoColor=%23D1BCE3)
-![TypeScript](https://img.shields.io/badge/typescript-%231d1b20.svg?style=for-the-badge&logo=typescript&logoColor=%23D1BCE3)
-![Elm](https://img.shields.io/badge/Elm-%231d1b20?style=for-the-badge&logo=elm&logoColor=%23D1BCE3)
-![React](https://img.shields.io/badge/react-%231d1b20.svg?style=for-the-badge&logo=react&logoColor=%23D1BCE3)
-![Vue.js](https://img.shields.io/badge/vuejs-%231d1b20.svg?style=for-the-badge&logo=vuedotjs&logoColor=%23D1BCE3)
+**Stack I work with:**
+TypeScript · React · Vue 3 · Next.js · Rails · Bun · Elm · GCP
 
+**Things I care about:**
+Testing strategies · CI/CD · Frontend architecture · Observability · DX
 
+---
 
+**[Ripple](https://tryripple.co)**: Changelog SaaS for indie founders and small teams. Built solo, live in production with real users and Stripe billing.
+
+**[Adotai](https://adotai.org)**: Nonprofit platform connecting animals with adopters across Brazil.
+Built with Next.js, PostgreSQL, and Google OAuth.
+
+**[elm-input-masks](link-da-lib)**: Open source type-safe storage library for Elm applications.
