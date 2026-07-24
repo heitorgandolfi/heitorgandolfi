@@ -22,4 +22,4 @@ Testing strategies · CI/CD · Frontend architecture · Observability · DX
 **[Adotai](https://adotai.org)**: Nonprofit platform connecting animals with adopters across Brazil.
 Built with Next.js, PostgreSQL, and Google OAuth.
 
-**[elm-input-masks](link-da-lib)**: Open source type-safe storage library for Elm applications.
+**[elm-ipe](link-da-lib)**: Open source type-safe storage library for Elm applications.
